@@ -1169,3 +1169,9 @@
 {"level":"info","message":"Connected to MongoDB...","timestamp":"2020-07-11T22:35:36.015Z"}
 {"level":"info","message":"Listening on port 3300...","timestamp":"2020-07-11T22:36:17.104Z"}
 {"level":"info","message":"Connected to MongoDB...","timestamp":"2020-07-11T22:36:17.139Z"}
+{"level":"info","message":"Listening on port 3300...","timestamp":"2020-09-15T12:15:24.150Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-15T12:15:24.200Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Book\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Book\"\n    at model.Query.exec (/home/obed/Desktop/Bookshop_App_Api/node_modules/mongoose/lib/query.js:4368:21)\n    at model.Query.Object.<anonymous>.Query.then (/home/obed/Desktop/Bookshop_App_Api/node_modules/mongoose/lib/query.js:4460:15)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-09-15T12:15:25.616Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Book\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Book\"\n    at model.Query.exec (/home/obed/Desktop/Bookshop_App_Api/node_modules/mongoose/lib/query.js:4368:21)\n    at model.Query.Object.<anonymous>.Query.then (/home/obed/Desktop/Bookshop_App_Api/node_modules/mongoose/lib/query.js:4460:15)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-09-15T12:15:25.665Z"}
+{"level":"info","message":"Listening on port 3300...","timestamp":"2020-09-15T12:15:26.186Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-15T12:15:28.464Z"}

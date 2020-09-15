@@ -1,3 +1,4 @@
 node_modules/
 coverage/
 node_modules
+.run (.run file in your project won’t be committed in your repo

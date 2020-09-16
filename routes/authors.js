@@ -24,7 +24,6 @@ router.post('/', auth, async (req, res) => {
           name: book.name
         },
     availBooksInStock: req.body.availBooksInStock
-        // dailyRentalrate: req.body.dailyRentalrate
       });
       await author.save();
 

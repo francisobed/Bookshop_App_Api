@@ -1,5 +1,5 @@
 {
-    "jwtPrivateKey": "1234",
+    "jwtPrivateKey": "secret",
     "db": "mongodb://localhost/Bookshop_tests"
 }
 

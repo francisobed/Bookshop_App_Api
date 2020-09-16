@@ -4,13 +4,12 @@ const { User} = require('../../models/user');
 const mongoose = require('mongoose');
 
 let server;
-
 describe('/api/books', () => {
   beforeEach(() => { server = require('../../index'); })
   afterEach(async () => {
     server.close();
     await Book.remove({});
-  });
+});
 
   describe('GET /', () => {
     it('should return all books', async () => {

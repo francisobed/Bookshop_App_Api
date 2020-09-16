@@ -7,11 +7,9 @@
     "test": "jest --testEnvironment=node --verbose --coverage --forceExit --watchAll --maxWorkers=1",
     "start": "node index.js"
   },
-
-  "engines":{
+  "engines": {
     "node": "10.19.0"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -28,6 +26,7 @@
     "jsonwebtoken": "^8.1.1",
     "lodash": "^4.17.4",
     "mongoose": "^5.0.2",
+    "morgan": "^1.10.0",
     "winston": "^2.4.0",
     "winston-mongodb": "^3.0.0"
   },

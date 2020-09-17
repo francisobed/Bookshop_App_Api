@@ -1,6 +1,18 @@
 
 
 # Bookshop_App_Api
+
+An API that takes record of books in a small shop
+
+API on Heroku
+https://bookshopappapinodejs.herokuapp.com/
+
+
+API DOCUMENTATION
+https://documenter.getpostman.com/view/11501979/TVK8aKu9
+
+
+
 How to Run
 You will have to follow some steps to test the API.
 
